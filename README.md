@@ -1,0 +1,1 @@
+Successfully created a 'Catch the Mole' game using HTML5, CSS3, and JavaScript. The game consists of three difficulty levels and is hosted on Netlify. Here is the link: [https://catchthemolebyrohit.netlify.app]
